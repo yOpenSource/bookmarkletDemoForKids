@@ -10,7 +10,7 @@
   
   + Link's innerHTML will become _Name of your Bookmark_ 
   
-  + Right Click and click _Edit_ to change _Name of your Bookmark_ 
+  + Right Click and click _Edit_ to change Name of your Bookmark
   
   + Change URL to  ```javascript: (  function(){ //your code here }     )()``` 
   like in [bookmarkCode.js](https://yopensource.github.io/bookmarkletDemoForKids/Bookmarklet/bookmarkCode.js)
@@ -25,15 +25,15 @@
   
 #  Note : 
 
-> - Your script node's src must be hosted online.
+> - Your script node's src must be hosted online
 
 > - Maintain the proper order of the script nodes as they are interdependent
 
-> - Your bookmark code must start with *javascript:* and must be converted to single line
+> - Your bookmark code must start with _javascript:_ and must be converted to single line
 
 
 
 
-#### So, what is a custom bookmark ?
-          >> In nut shell , its a button which on clicking runs a saved function code.
+#### So, what is a custom bookmark 
+          >> In nut shell , its a button which on clicking runs a saved function code
           >> All we will do is load other scripts using that function
