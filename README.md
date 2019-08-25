@@ -4,8 +4,6 @@
   
 
 
-
-
 ## Take following steps to create your own book mark that runs in chrome over online websites
 
   + Drag and drop any link in the bookmark bar of the chrome
@@ -14,7 +12,7 @@
   
   + Change bookmark name
   
-  + Change URL to  javascript: (  function(){ //your code here }     )() 
+  + Change URL to  ```javascript: (  function(){ //your code here }     )()``` 
   like in [bookmarkCode.js](https://yopensource.github.io/bookmarkletDemoForKids/Bookmarklet/bookmarkCode.js)
   
   + While pasting the code in the URL of your bookmark it should not have any new lines
@@ -32,3 +30,10 @@
 > - Maintain the proper order of the script nodes as they are interdependent
 
 > - Your bookmark code must start with *javascript:* and must be converted to single line
+
+
+
+
+#### So, what is a custom bookmark ?
+          >> In nut shell , its a button which on clicking runs a saved function code.
+          >> All we will we do is load other scripts using that function
