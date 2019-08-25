@@ -10,7 +10,7 @@
   
   + Link's innerHTML will become _Name of your Bookmark_ 
   
-  + Change bookmark name
+  + Right Click and click _Edit_ to change _Name of your Bookmark_ 
   
   + Change URL to  ```javascript: (  function(){ //your code here }     )()``` 
   like in [bookmarkCode.js](https://yopensource.github.io/bookmarkletDemoForKids/Bookmarklet/bookmarkCode.js)
