@@ -1,3 +1,3 @@
 (function(){
-  $(p).css("background-color","pink");
+  $("div").css("background-color","pink");
 })();
