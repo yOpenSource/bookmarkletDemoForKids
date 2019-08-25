@@ -14,7 +14,8 @@
   
   + Change bookmark name
   
-  + Change URL to javascript:(function(){//your code here})() like in [bookmarkCode.js](https://yopensource.github.io/bookmarkletDemoForKids/Bookmarklet/bookmarkCode.js)
+  + Change URL to  javascript: (  function(){ //your code here }     )() 
+  like in [bookmarkCode.js](https://yopensource.github.io/bookmarkletDemoForKids/Bookmarklet/bookmarkCode.js)
   
   + While pasting the code in the URL of your bookmark it should not have any new lines
   
