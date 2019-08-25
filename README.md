@@ -35,5 +35,5 @@
 
 
 #### So, what is a custom bookmark 
-          >> In nut shell , its a button which on clicking runs a saved function code
+          >> In nut shell , its a button which on clicking runs a saved function  code which has access to our html document
           >> All we will do is load other scripts using that function
